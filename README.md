@@ -1,5 +1,5 @@
 # onion's utilities
-> provides utility mods for optimization and any kind of playing: Survival, Building, PVPing
+> Modpack providing utility mods for optimization and any kind of playing: Survival, Building, PVP
 
 ## Performance
 Since this modpack uses [Sodium](https://modrinth/mod/sodium), [Lithium](https://modrinth/mod/lithium) and [Phosphor](https://modrinth/mod/phosphor) it should also run on systems with low specs.
