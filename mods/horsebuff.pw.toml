@@ -1,0 +1,13 @@
+name = "Horse Buff"
+filename = "HorseBuff-1.19.4-rc3-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IrrG0G8l/versions/C494hGA3/HorseBuff-1.19.4-rc3-2.0.4.jar"
+hash-format = "sha1"
+hash = "95e36dafa9595a3b49bd9498723b3f858b3b5ddd"
+
+[update]
+[update.modrinth]
+mod-id = "IrrG0G8l"
+version = "C494hGA3"

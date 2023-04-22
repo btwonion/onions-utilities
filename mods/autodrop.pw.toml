@@ -1,0 +1,13 @@
+name = "SimpleAutoDrop"
+filename = "SimpleAutoDrop-1.5.2-1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lg17V3i3/versions/JQNBFaXo/SimpleAutoDrop-1.5.2-1.19.4.jar"
+hash-format = "sha1"
+hash = "daeeb239191006128fdc34c7bf6c8b73952844f3"
+
+[update]
+[update.modrinth]
+mod-id = "lg17V3i3"
+version = "JQNBFaXo"

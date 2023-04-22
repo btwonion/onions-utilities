@@ -1,0 +1,13 @@
+name = "Nosey"
+filename = "Nosey-fabric-1.19.4-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6imwpqfL/versions/hpHhJ3WW/Nosey-fabric-1.19.4-0.4.1.jar"
+hash-format = "sha1"
+hash = "91f5c0cc304a74ee7726ed850392e64546079539"
+
+[update]
+[update.modrinth]
+mod-id = "6imwpqfL"
+version = "hpHhJ3WW"

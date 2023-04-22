@@ -1,0 +1,13 @@
+name = "In-Game Account Switcher"
+filename = "InGameAccountSwitcher-Fabric-1.19-8.0.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cudtvDnd/versions/OQZPp5Se/InGameAccountSwitcher-Fabric-1.19-8.0.1.2.jar"
+hash-format = "sha1"
+hash = "c7c18fa4a3e6d5085f8cecbe85da1e0fbf5630be"
+
+[update]
+[update.modrinth]
+mod-id = "cudtvDnd"
+version = "OQZPp5Se"
