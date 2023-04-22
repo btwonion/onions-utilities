@@ -2,7 +2,7 @@
 > provides utility mods for optimization and any kind of playing: Survival, Building, PVPing
 
 ## Performance
-Since this modpack uses Sodium, Lithium and Phosphor it should also run on systems with low specs.
+Since this modpack uses [Sodium](https://modrinth/mod/sodium), [Lithium](https://modrinth/mod/lithium) and [Phosphor](https://modrinth/mod/phosphor) it should also run on systems with low specs.
 
 ## Graphics
 This modpack automatically installs [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) and 
