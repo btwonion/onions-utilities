@@ -1,6 +1,54 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "630eed6ca89461546d22d2dd4e92ccabde2054ac9e3727204d6cba22d1991f15"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "ba5e0e63cd9b06f69f19a66e99cd8f2d327421344123215c067a427a161558f1"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/ViaFabric/viafabric.yml"
+hash = "c9ba0ce99435442454e00f2b1e068307694ade7d946c7b71dda4d32dac1d4d77"
+
+[[files]]
+file = "config/ViaFabric/viaversion.yml"
+hash = "75d0cfd9167cbbb923d414b3bffa8e445d4929e00d15d3fc8957f9d665419beb"
+
+[[files]]
+file = "config/gamma_utils.json5"
+hash = "af3421a968736d0014ee7510aea0dd2aa2c2013c68aa9bd1a9a7d1acd9f6f723"
+
+[[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "559fd13b9185dc79c1cd57c39a7087cafae9ef6d08144b13b905029b8fb638d4"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "4dc0ecc4f21f3b5b15ce2dd67e1e69557ad46b04d645c67aaee9e76e8ba22d1f"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "a32c52228ca930779d73429e2e0732470e35610c39fbb828cf3b5c51986eebaa"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
 metafile = true
@@ -71,11 +119,6 @@ hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
 metafile = true
 
 [[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "4a1efe77a42baa7c8eb76e1639ac85dc180a0fa855b42d9a94d9ccee606db4a6"
-metafile = true
-
-[[files]]
 file = "mods/customscoreboard.pw.toml"
 hash = "5c0880ee3c643eebf2cc287c76d7f31b44503c05b78cb6755c31864ca9cc32b9"
 metafile = true
@@ -101,11 +144,6 @@ hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "7857d46b41b5c4a2a9a11fd17572a266c633064ac026b72588e0f4afcb296942"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
@@ -128,11 +166,6 @@ metafile = true
 [[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "998ff1a24bf6575ce321eade35fd3212fa310bc6495327cae0240a7f8a844b7e"
-metafile = true
-
-[[files]]
-file = "mods/horsestatsvanilla.pw.toml"
-hash = "8d28ebd4222ecece6888e3089bcaf836792be6772714962cf7fb3c85e0cfaba9"
 metafile = true
 
 [[files]]
@@ -173,11 +206,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
-metafile = true
-
-[[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
@@ -254,6 +282,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "7d58dd4cdeca858fee0cdac9977e2fe1017f4df8c6f0ed9ed30f84d576986d42"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
