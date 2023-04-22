@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "d5801dea9af9be2850a4826d74deedcc4939744012503990aac9bfb4b62ee186"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "630eed6ca89461546d22d2dd4e92ccabde2054ac9e3727204d6cba22d1991f15"
 
@@ -136,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "54968e302997818e3161506db9f83add8a29b415d216985c3a3bcd301bb9b7a2"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
