@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "500eecde554bc377218c8cc61058602364e6869b01df7a22d4e96b829f8280eb"
+hash = "a43c90eeb2b3942ff228c4c8ad0d137afb03892b7c8f37b95fdf1232cff06994"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e2814612cc9e6af024bd0590ab0500e55595c8ed78e758515fdbfa7cb6185502"
+hash = "d731cf839a0288e0393caffbd95d6fda78006a71054be16ac0cb22fe59a889f3"
 metafile = true
 
 [[files]]
