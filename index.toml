@@ -25,6 +25,14 @@ file = "config/ViaFabric/viaversion.yml"
 hash = "75d0cfd9167cbbb923d414b3bffa8e445d4929e00d15d3fc8957f9d665419beb"
 
 [[files]]
+file = "config/cosmetica/cosmetica.properties"
+hash = "cf3723e1e75c0a069ff9ef2a90841dfcc9bb906216586754b69c1ba0110cdd47"
+
+[[files]]
+file = "config/cosmetica/default-settings.properties"
+hash = "c54abb854cf0a1e18c6604ec81f525b303748c046b768365efed7f4c5385b5e2"
+
+[[files]]
 file = "config/gamma_utils.json5"
 hash = "af3421a968736d0014ee7510aea0dd2aa2c2013c68aa9bd1a9a7d1acd9f6f723"
 
