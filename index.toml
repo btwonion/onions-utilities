@@ -119,6 +119,11 @@ hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
 metafile = true
 
 [[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "3ead797ab7e006ff35865d5037251e36889f7cdc72e03dbc4a119fcc1a61e438"
+metafile = true
+
+[[files]]
 file = "mods/customscoreboard.pw.toml"
 hash = "5c0880ee3c643eebf2cc287c76d7f31b44503c05b78cb6755c31864ca9cc32b9"
 metafile = true
