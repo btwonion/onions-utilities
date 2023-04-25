@@ -314,3 +314,8 @@ metafile = true
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "31874e13fc74832153432cefc275151dc1d8017eb19593efccd436d9baca4eca"
 metafile = true
+
+[[files]]
+file = "resourcepacks/hyper-realistic-sky.pw.toml"
+hash = "1a5e37a874ea32427f67e94c81ca2a7ef1b4a8eaeaefa5905caecb7f85ba5086"
+metafile = true

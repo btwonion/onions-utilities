@@ -1,0 +1,7 @@
+name = "hyper-realistic-sky"
+filename = "Hyper_realistic_sky_[v1.7].zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/PsMUgCo5/versions/pMSUxsN7/Hyper_realistic_sky_%5Bv1.7%5D.zip"
+hash-format = "sha1"
+hash = "03b2ff0302cbc05df3581fd3de0fab0d1fd1028a"
