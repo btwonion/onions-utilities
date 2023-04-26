@@ -1,12 +1,20 @@
 name = "onion's-utilities"
 author = "btwonion"
+<<<<<<< HEAD
 version = "1.0.4"
+=======
+version = "1.0.3"
+>>>>>>> 13ccf72af5e782eee465bb397b4c92007118b1d6
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "0d37cdd1e9ab90398bbfed9b98172483c01957bd1531c74147e32995208a1350"
+=======
+hash = "b599b40a6e2fb8898df665f15214d52abaf4bf6e2c038d747ff1826a84dde5d8"
+>>>>>>> 13ccf72af5e782eee465bb397b4c92007118b1d6
 
 [versions]
 minecraft = "1.19.4"
