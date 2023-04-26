@@ -26,7 +26,7 @@ hash = "75d0cfd9167cbbb923d414b3bffa8e445d4929e00d15d3fc8957f9d665419beb"
 
 [[files]]
 file = "config/cosmetica/cosmetica.properties"
-hash = "cf3723e1e75c0a069ff9ef2a90841dfcc9bb906216586754b69c1ba0110cdd47"
+hash = "bd98f3956f909059a0b6349339c7d46b4d9998310b8b34a2a775ace9f95e4e35"
 
 [[files]]
 file = "config/cosmetica/default-settings.properties"
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7d58dd4cdeca858fee0cdac9977e2fe1017f4df8c6f0ed9ed30f84d576986d42"
+hash = "81f84d1ea359706cf3f5d1a5951c9208236216f6ec1f92eeee30688ae1fb9d0b"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
