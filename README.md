@@ -2,7 +2,8 @@
 > Modpack providing utility mods for optimization and any kind of playing: Survival, Building, PVP
 
 ## Performance
-Since this modpack uses [Sodium](https://modrinth/mod/sodium), [Lithium](https://modrinth/mod/lithium) and [Phosphor](https://modrinth/mod/phosphor) it should also run on systems with low specs.
+Since this modpack uses [Sodium](https://modrinth/mod/sodium), [Lithium](https://modrinth/mod/lithium) and [Phosphor](https://modrinth/mod/phosphor) you shouldn't feel any fps drops. 
+<br> > If have them anyway, try to disable the Hyper-Realistic-Sky texture pack
 
 ## Graphics
 This modpack automatically installs [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) and 
