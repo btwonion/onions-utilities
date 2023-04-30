@@ -41,12 +41,16 @@ file = "config/gamma_utils.json5"
 hash = "af3421a968736d0014ee7510aea0dd2aa2c2013c68aa9bd1a9a7d1acd9f6f723"
 
 [[files]]
+file = "config/moredetails.json"
+hash = "90bdaaa45b534cb7f205443b8669f3f38103e0b0f42eb5e40e592a0dc86f6941"
+
+[[files]]
 file = "config/shulkerboxtooltip.json5"
 hash = "559fd13b9185dc79c1cd57c39a7087cafae9ef6d08144b13b905029b8fb638d4"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "4dc0ecc4f21f3b5b15ce2dd67e1e69557ad46b04d645c67aaee9e76e8ba22d1f"
+hash = "e1ac6b01d12c553003eda83b41f0811231788efb3631a2be11e1379fab1d9662"
 
 [[files]]
 file = "config/sodium-extra.properties"
