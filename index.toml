@@ -25,6 +25,10 @@ file = "config/ViaFabric/viaversion.yml"
 hash = "75d0cfd9167cbbb923d414b3bffa8e445d4929e00d15d3fc8957f9d665419beb"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "1e6561b145025cfc50bf8d0550aae9e4b1f52387223b7065321db9576a00ebcc"
+
+[[files]]
 file = "config/cosmetica/cosmetica.properties"
 hash = "bd98f3956f909059a0b6349339c7d46b4d9998310b8b34a2a775ace9f95e4e35"
 
@@ -83,12 +87,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "b9a8467a17d18a781e66158265361757b1eee46dcde2927a91d39dafc493b5a5"
+hash = "bb8af3bc8302c05d6eca4d0f034ac25d47f4afcf14d81e7d47f6403ae0cfb669"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "af7f53d436cc321c72798398dee0f287042c0e60fc8fded6b5a06f478961b470"
+hash = "fa625b7c1043f3d99320c912923fe5670edd3a4b405e94d4920638827762543b"
 metafile = true
 
 [[files]]
@@ -214,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
+metafile = true
+
+[[files]]
+file = "mods/moredetails.pw.toml"
+hash = "c4b3b3efa80f9dde70bad9442ca0a1aa6d369dca9a766f304a090d43eec818d0"
 metafile = true
 
 [[files]]
