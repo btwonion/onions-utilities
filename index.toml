@@ -107,11 +107,6 @@ hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "9277beb9481ab7cd8abff4411fd823a167073c9457e142e5579d568e8f26c0a1"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "53f4c91dad29ae26c26ce8b42cfd895ad09fb31eea4ea150530fb0fdade8d091"
 metafile = true
