@@ -1,0 +1,13 @@
+name = "moredetails"
+filename = "moredetails-1.0.1-1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eWxWZCSi/versions/1DwCfuig/moredetails-1.0.1-1.19.4.jar"
+hash-format = "sha1"
+hash = "a954976745b66e01d55ae1c17ed92962812899e2"
+
+[update]
+[update.modrinth]
+mod-id = "eWxWZCSi"
+version = "1DwCfuig"
