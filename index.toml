@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "81f84d1ea359706cf3f5d1a5951c9208236216f6ec1f92eeee30688ae1fb9d0b"
+hash = "35175bb74a618042e5e1823b987e55e439834ad436fabe4c2c6bd979f49f8c63"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
@@ -319,8 +319,8 @@ hash = "d89de388af792c76c809da864b7b2dd4864e325a72d9bd655c85f3753d56047f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/faithful-64x.pw.toml"
-hash = "31874e13fc74832153432cefc275151dc1d8017eb19593efccd436d9baca4eca"
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "adc3de0e4174aac0daa323c4e31185c1b7da4e460beea3a9217def7277323416"
 metafile = true
 
 [[files]]

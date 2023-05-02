@@ -1,5 +1,5 @@
 version:3337
-quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","file/Default-Dark-Mode-1.19.4-v1.4.0.zip","file/Faithful 64x - Beta 8.zip","high_contrast","lambdabettergrass/default","programmer_art","vanilla","file/Hyper_realistic_sky_[v1.7].zip"]
+quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","file/Default-Dark-Mode-1.19.4-v1.4.0.zip","file/Faithful 32x - 1.19.4.zip","high_contrast","lambdabettergrass/default","programmer_art","vanilla","file/Hyper_realistic_sky_[v1.7].zip"]
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
