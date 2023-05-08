@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "53f4c91dad29ae26c26ce8b42cfd895ad09fb31eea4ea150530fb0fdade8d091"
+hash = "75a1e75e8922cc47eee3863cf1761e2198b22d5ba0d47fee24b8c51108aac715"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
+hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
 metafile = true
 
 [[files]]
@@ -227,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/moredetails.pw.toml"
 hash = "c4b3b3efa80f9dde70bad9442ca0a1aa6d369dca9a766f304a090d43eec818d0"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "a0d941f8165acf29b52cf0444700e04b228e0b8710bb17e8760d9de7fbb09fe1"
 metafile = true
 
 [[files]]
@@ -261,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/recursiveresources.pw.toml"
-hash = "797378c1a74c1b00a1b31bbe07c90483bf7606ae63887ac12905de3443f29039"
+hash = "2fba84678a959bfa34111af7321cdfe4d11e075302849719c5966392f99da8fe"
 metafile = true
 
 [[files]]
@@ -281,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
@@ -291,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "3fd9f7e41a7543c4a5c03f7a73ef2055a091ca35857d574c6d8e430d100b5518"
+hash = "a358d855d607dde44433097b6a054855143cb2f023f70c23020427b3548b9972"
 metafile = true
 
 [[files]]
@@ -301,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "d731cf839a0288e0393caffbd95d6fda78006a71054be16ac0cb22fe59a889f3"
+hash = "e6324b15f0cc3ac114be6f389643bb11ff410f401299037ec4703fc1bc35961a"
 metafile = true
 
 [[files]]
