@@ -280,18 +280,13 @@ hash = "352d2dd8efb08f8a6213c295a10259de61b4536f2afb1fd985ffcea47a55ec8b"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "9ce65b7dba0f8d936c9cd745763a39dc40d170d63a7a54481ff02688b561c088"
+hash = "b572bcb363214650ffd0c28ebfa43df04efacbd66e3a3c8426aeb9df2abe600f"
 metafile = true
 
 [[files]]
