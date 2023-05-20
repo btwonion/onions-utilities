@@ -85,8 +85,8 @@ hash = "388b84efa59c4d4e29def2cf18e0af8b3682196e40df22e7cd85e4c0c490c263"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "2f353c2f11a14c36f0c3f4a7cd289d0ecdb99df719181db9e81134e74be6b5a0"
+file = "mods/better-ping-display.pw.toml"
+hash = "7bbe0a9567a802b49de955f2c0dc8479555d9cbf4f5823a6aea89257e4adf782"
 metafile = true
 
 [[files]]
