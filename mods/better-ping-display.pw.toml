@@ -1,7 +1,0 @@
-name = "better-ping-display"
-filename = "BetterPingDisplay-Fabric-2.0.3.jar"
-
-[download]
-url = "https://github.com/Razuuu/better-ping-display-fabric/releases/download/v2.0.3/BetterPingDisplay-Fabric-2.0.3.jar"
-hash-format = "sha1"
-hash = "db7eaa0349ea80bf080368d5669a97e80ac6fca2"

@@ -1,70 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "630eed6ca89461546d22d2dd4e92ccabde2054ac9e3727204d6cba22d1991f15"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
-
-[[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "ba5e0e63cd9b06f69f19a66e99cd8f2d327421344123215c067a427a161558f1"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerPreferences.json"
-hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "config/ViaFabric/viafabric.yml"
-hash = "c9ba0ce99435442454e00f2b1e068307694ade7d946c7b71dda4d32dac1d4d77"
-
-[[files]]
-file = "config/ViaFabric/viaversion.yml"
-hash = "75d0cfd9167cbbb923d414b3bffa8e445d4929e00d15d3fc8957f9d665419beb"
-
-[[files]]
-file = "config/betterf3.json"
-hash = "1e6561b145025cfc50bf8d0550aae9e4b1f52387223b7065321db9576a00ebcc"
-
-[[files]]
-file = "config/cosmetica/cosmetica.properties"
-hash = "bd98f3956f909059a0b6349339c7d46b4d9998310b8b34a2a775ace9f95e4e35"
-
-[[files]]
-file = "config/cosmetica/default-settings.properties"
-hash = "c54abb854cf0a1e18c6604ec81f525b303748c046b768365efed7f4c5385b5e2"
-
-[[files]]
-file = "config/gamma_utils.json5"
-hash = "af3421a968736d0014ee7510aea0dd2aa2c2013c68aa9bd1a9a7d1acd9f6f723"
-
-[[files]]
-file = "config/moredetails.json"
-hash = "90bdaaa45b534cb7f205443b8669f3f38103e0b0f42eb5e40e592a0dc86f6941"
-
-[[files]]
-file = "config/shulkerboxtooltip.json5"
-hash = "559fd13b9185dc79c1cd57c39a7087cafae9ef6d08144b13b905029b8fb638d4"
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "e1ac6b01d12c553003eda83b41f0811231788efb3631a2be11e1379fab1d9662"
-
-[[files]]
-file = "config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
-
-[[files]]
-file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "a32c52228ca930779d73429e2e0732470e35610c39fbb828cf3b5c51986eebaa"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
 metafile = true
@@ -85,13 +21,13 @@ hash = "388b84efa59c4d4e29def2cf18e0af8b3682196e40df22e7cd85e4c0c490c263"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display.pw.toml"
-hash = "7bbe0a9567a802b49de955f2c0dc8479555d9cbf4f5823a6aea89257e4adf782"
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "2f353c2f11a14c36f0c3f4a7cd289d0ecdb99df719181db9e81134e74be6b5a0"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "fddf1c5252e74d1fe4624e5891be91c932f43c3315fb7faec83769a289d2c543"
+hash = "47ec314d0577a5c7973c8d8a5d88c5b7ba7b40f31e17e0a6f518727cea52aa50"
 metafile = true
 
 [[files]]
@@ -160,18 +96,13 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
+file = "mods/fabric-api.pw.toml"
+hash = "fc1323ed77ac0b485d55f12edde21a1a9cde29b90f85e353fab11b034b7ab9d8"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "42272688975731772ce119e33659091edfff29244dddd147320866c0e5177ee8"
 metafile = true
 
 [[files]]
@@ -181,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "f0be89b1a9fa284dc986982a3b38939f05953ff42e17fd99eeb6e71c708ecc85"
+hash = "4b8bdf4dc91b64039b00a10f120d3cd0a32201a4d6c64348acfe90076aa9c20a"
 metafile = true
 
 [[files]]
@@ -200,11 +131,6 @@ hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
 metafile = true
 
 [[files]]
-file = "mods/lambdabettergrass.pw.toml"
-hash = "1f4df9a518618ca75875f23a6dccf74acaec26963d9108468ff4d106107e02f1"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
@@ -217,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
 metafile = true
 
 [[files]]
@@ -260,11 +181,6 @@ hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
-hash = "5f70762432ca96f1897d96f36b72f248ecd3ec48abe7dffad6e1b1375998508f"
-metafile = true
-
-[[files]]
 file = "mods/recursiveresources.pw.toml"
 hash = "f479ec13d681fea4bf15e702e9dedcbc08d3a5db8faf4a4efb4579d23afcc7c0"
 metafile = true
@@ -290,11 +206,6 @@ hash = "b572bcb363214650ffd0c28ebfa43df04efacbd66e3a3c8426aeb9df2abe600f"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "a358d855d607dde44433097b6a054855143cb2f023f70c23020427b3548b9972"
-metafile = true
-
-[[files]]
 file = "mods/whoami.pw.toml"
 hash = "92881f23b9835dd0962a51ffb24f12b8f11e881bd8a5a10c63874223ed60e436"
 metafile = true
@@ -308,10 +219,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "35175bb74a618042e5e1823b987e55e439834ad436fabe4c2c6bd979f49f8c63"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"

@@ -1,13 +1,13 @@
-name = "onion's-utilities"
+name = "onions-utilities"
 author = "btwonion"
-version = "1.1.2"
+version = "1.1.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "df1c6ce1acca6c7827121311630659d061fd389425c6229e13ae283973fe6c7c"
+hash = "c40a4e808349ce8eadfc5eb0b5a1ae0f6e52fe1c71df15558b1be780693dac3b"
 
 [versions]
+fabric = "0.14.19"
 minecraft = "1.19.4"
-quilt = "0.19.0-beta.12"
