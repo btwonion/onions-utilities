@@ -1,6 +1,70 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "630eed6ca89461546d22d2dd4e92ccabde2054ac9e3727204d6cba22d1991f15"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "ba5e0e63cd9b06f69f19a66e99cd8f2d327421344123215c067a427a161558f1"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/ViaFabric/viafabric.yml"
+hash = "c9ba0ce99435442454e00f2b1e068307694ade7d946c7b71dda4d32dac1d4d77"
+
+[[files]]
+file = "config/ViaFabric/viaversion.yml"
+hash = "75d0cfd9167cbbb923d414b3bffa8e445d4929e00d15d3fc8957f9d665419beb"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "1e6561b145025cfc50bf8d0550aae9e4b1f52387223b7065321db9576a00ebcc"
+
+[[files]]
+file = "config/cosmetica/cosmetica.properties"
+hash = "bd98f3956f909059a0b6349339c7d46b4d9998310b8b34a2a775ace9f95e4e35"
+
+[[files]]
+file = "config/cosmetica/default-settings.properties"
+hash = "c54abb854cf0a1e18c6604ec81f525b303748c046b768365efed7f4c5385b5e2"
+
+[[files]]
+file = "config/gamma_utils.json5"
+hash = "af3421a968736d0014ee7510aea0dd2aa2c2013c68aa9bd1a9a7d1acd9f6f723"
+
+[[files]]
+file = "config/moredetails.json"
+hash = "90bdaaa45b534cb7f205443b8669f3f38103e0b0f42eb5e40e592a0dc86f6941"
+
+[[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "559fd13b9185dc79c1cd57c39a7087cafae9ef6d08144b13b905029b8fb638d4"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "e1ac6b01d12c553003eda83b41f0811231788efb3631a2be11e1379fab1d9662"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "a32c52228ca930779d73429e2e0732470e35610c39fbb828cf3b5c51986eebaa"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
 metafile = true
@@ -103,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "42272688975731772ce119e33659091edfff29244dddd147320866c0e5177ee8"
 metafile = true
 
 [[files]]
@@ -219,6 +288,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "35175bb74a618042e5e1823b987e55e439834ad436fabe4c2c6bd979f49f8c63"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
