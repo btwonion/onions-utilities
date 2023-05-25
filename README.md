@@ -3,7 +3,7 @@
 
 ## Performance
 Since this modpack uses [Sodium](https://modrinth/mod/sodium), [Lithium](https://modrinth/mod/lithium) and [Phosphor](https://modrinth/mod/phosphor) you shouldn't feel any fps drops. 
-<br> > If you have them anyway, try to disable the Hyper-Realistic-Sky texture pack
+<br> > If you have them anyway, try to disable the [Hyper-Realistic-Sky](https://modrinth.com/resourcepack/hyper-realistic-sky) texture pack
 
 ## Graphics
 This modpack automatically installs [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x) and 
