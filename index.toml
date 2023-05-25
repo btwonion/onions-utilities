@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/autodrop.pw.toml"
-hash = "388b84efa59c4d4e29def2cf18e0af8b3682196e40df22e7cd85e4c0c490c263"
+hash = "95adbfe3a594c84dcb7e8df3a950176c7b5b0743622a5a22a7d8133816f9def0"
 metafile = true
 
 [[files]]
