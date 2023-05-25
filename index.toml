@@ -85,13 +85,13 @@ hash = "388b84efa59c4d4e29def2cf18e0af8b3682196e40df22e7cd85e4c0c490c263"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display.pw.toml"
-hash = "7bbe0a9567a802b49de955f2c0dc8479555d9cbf4f5823a6aea89257e4adf782"
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "cad644933c7182adab47ef24cd6dec2de329cb13d46a0c31d75c9bf0c68a131e"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "47ec314d0577a5c7973c8d8a5d88c5b7ba7b40f31e17e0a6f518727cea52aa50"
+hash = "77dc737eedebb2ed2f0eb2bc0b89a2c80ccdbed8ce022b7168d818522717554d"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "28cbffe5553d1fe781181253ea86dd0be408d1cab84a7df45cf2c5003f01c381"
+hash = "9268f1b067b6e83d6b11597db423c80b7b5af75d0828165f827aa0ace83ed8ae"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc1323ed77ac0b485d55f12edde21a1a9cde29b90f85e353fab11b034b7ab9d8"
+hash = "a026bd0b14096ae3a26a324c01155bf7c496b9549ed18d69a3f671ede2e3dc55"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "a495c86a2fe4ddc04e2506d3f061a2a64e5f94395e2e271cb63f7316cdf31fd7"
+hash = "c95b82d06d8c016d063359e098f73f94b55f08bb86cc96848dbd6f43968fb458"
 metafile = true
 
 [[files]]
