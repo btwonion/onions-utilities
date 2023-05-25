@@ -1,5 +1,4 @@
 version:3337
-quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","file/Default-Dark-Mode-1.19.4-v1.4.0.zip","file/Faithful 32x - 1.19.4.zip","high_contrast","lambdabettergrass/default","programmer_art","vanilla","file/Hyper_realistic_sky_[v1.7].zip"]
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -43,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/Faithful 64x - Beta 8.zip","file/Hyper_realistic_sky_[v1.7].zip","file/Default-Dark-Mode-1.19.4-v1.4.0.zip","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix"]
-incompatibleResourcePacks:["file/Hyper_realistic_sky_[v1.7].zip"]
+resourcePacks:["vanilla","file/Faithful 32x - 1.19.4.zip","file/Hyper_realistic_sky_[v1.7].zip","file/Default-Dark-Mode-1.19.4-v1.4.0.zip","fabric","continuity:glass_pane_culling_fix","continuity:default"]
+incompatibleResourcePacks:["file/Hyper_realistic_sky_[v1.7].zip","continuity:glass_pane_culling_fix","continuity:default"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -124,11 +123,11 @@ key_key.cosmetica.customise:key.keyboard.right.shift
 key_key.cosmetica.snipe:key.keyboard.y
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
-key_key.entityculling.toggle:key.keyboard.unknown
+key_Open moredetails config screen:key.keyboard.u
+key_Reorder moredetails components:key.keyboard.i
 key_Toggle AutoDrop:key.keyboard.j
 key_Open GUI:key.keyboard.o
-key_Freelook:key.keyboard.v
-key_Toggle Freelook:key.keyboard.unknown
+key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.gamma_utils.gamma_toggle:key.keyboard.unknown
 key_key.gamma_utils.increase_gamma:key.keyboard.up
 key_key.gamma_utils.decrease_gamma:key.keyboard.down
@@ -136,9 +135,20 @@ key_key.gamma_utils.max_gamma:key.keyboard.unknown
 key_key.gamma_utils.min_gamma:key.keyboard.unknown
 key_key.gamma_utils.night_vision_toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.mousewheelie.open_config_screen:key.keyboard.unknown
+key_key.mousewheelie.sort_inventory:key.mouse.middle
+key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
+key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
+key_key.mousewheelie.pick_tool:key.keyboard.unknown
+key_key.mousewheelie.whole_stack_modifier:key.keyboard.left.shift
+key_key.mousewheelie.all_of_kind_modifier:key.keyboard.left.control
+key_key.mousewheelie.drop_modifier:key.keyboard.left.alt
+key_key.mousewheelie.deposit_modifier:key.keyboard.space
+key_key.mousewheelie.restock_modifier:key.keyboard.space
+key_Freelook:key.keyboard.v
+key_Toggle Freelook:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
-key_key.fabricskyboxes.toggle:key.keyboard.unknown
 soundCategory_master:0.42218543046357615
 soundCategory_music:0.0
 soundCategory_record:0.3045774647887324
