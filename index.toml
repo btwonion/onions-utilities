@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "35175bb74a618042e5e1823b987e55e439834ad436fabe4c2c6bd979f49f8c63"
+hash = "f5a410374a5bc089a585a25ef294290a8940cf80b273eafa9a0c25fb76e62d3f"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
