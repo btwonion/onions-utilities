@@ -1,13 +1,13 @@
 name = "Nosey"
-filename = "Nosey-fabric-1.19.4-0.4.1.jar"
+filename = "Nosey-fabric-1.20.1-0.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6imwpqfL/versions/hpHhJ3WW/Nosey-fabric-1.19.4-0.4.1.jar"
+url = "https://cdn.modrinth.com/data/6imwpqfL/versions/hebJuyUI/Nosey-fabric-1.20.1-0.5.0.jar"
 hash-format = "sha1"
-hash = "91f5c0cc304a74ee7726ed850392e64546079539"
+hash = "35215829510fc41433fc61eeaa7b0361c6488c2d"
 
 [update]
 [update.modrinth]
 mod-id = "6imwpqfL"
-version = "hpHhJ3WW"
+version = "hebJuyUI"

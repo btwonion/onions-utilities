@@ -1,13 +1,13 @@
 name = "SimpleAutoDrop"
-filename = "SimpleAutoDrop-1.5.3-1.19.4.jar"
+filename = "autodrop-1.5.4-1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lg17V3i3/versions/fSBxHup7/SimpleAutoDrop-1.5.3-1.19.4.jar"
+url = "https://cdn.modrinth.com/data/lg17V3i3/versions/XAomWEL0/autodrop-1.5.4-1.20.jar"
 hash-format = "sha1"
-hash = "5541396992ba237de1fd71c452b49d770fdb0f1e"
+hash = "43f1247e0e290e403768a3489000e69ffaa097b1"
 
 [update]
 [update.modrinth]
 mod-id = "lg17V3i3"
-version = "fSBxHup7"
+version = "XAomWEL0"

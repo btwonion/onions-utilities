@@ -82,82 +82,77 @@ hash = "a32c52228ca930779d73429e2e0732470e35610c39fbb828cf3b5c51986eebaa"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-tooltips.pw.toml"
-hash = "5fdd0016bff105e32a651941aba7a56ed62acbe8459eeee0816d64866a8865bf"
+hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "b1b9042b80ced7af7192b3159b12112c6b2899c81ff09f0232f01bce8f42fba1"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
 
 [[files]]
 file = "mods/autodrop.pw.toml"
-hash = "95adbfe3a594c84dcb7e8df3a950176c7b5b0743622a5a22a7d8133816f9def0"
+hash = "7f7347eb098a31b327a8890be6177386eb0985ff1986e29d00d7424ade6c75ec"
 metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "cad644933c7182adab47ef24cd6dec2de329cb13d46a0c31d75c9bf0c68a131e"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "77dc737eedebb2ed2f0eb2bc0b89a2c80ccdbed8ce022b7168d818522717554d"
+hash = "8d3280ea80fed62e07bdeda49bb606bf69b51ee7cc80a5f7ae130a5a4c086b00"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "fa625b7c1043f3d99320c912923fe5670edd3a4b405e94d4920638827762543b"
+hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
 metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "55c14fd0cba0ae4478945420862cfdec970a5ab40b04a34ce9e3f94b9d721e38"
+hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
 metafile = true
 
 [[files]]
 file = "mods/boat-item-view.pw.toml"
-hash = "8f39c1f9a2a5856bc40ccfd3414f8d0e0ec90429dadf4aaf2333790bdcb727cb"
+hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
 metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
+hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "75a1e75e8922cc47eee3863cf1761e2198b22d5ba0d47fee24b8c51108aac715"
+hash = "cd2e4fa0a3dda308c440d163b8339b2072cfb2409a0def1f49099a3114596ab6"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
+hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
 metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "3ead797ab7e006ff35865d5037251e36889f7cdc72e03dbc4a119fcc1a61e438"
+hash = "2b28d1339f3853d3568d2e48096cac9c75745e93d484c36d03345bcaa3b7c3a9"
 metafile = true
 
 [[files]]
 file = "mods/customscoreboard.pw.toml"
-hash = "5c0880ee3c643eebf2cc287c76d7f31b44503c05b78cb6755c31864ca9cc32b9"
+hash = "020a9d95210750efbbd201ac525f7bae7b291551c6f638072aa4662b6f0aa239"
 metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "9268f1b067b6e83d6b11597db423c80b7b5af75d0828165f827aa0ace83ed8ae"
+hash = "f0f82f41fef1fbc7d19723170410c631894de34ba0701157a1a897bac0af34d1"
 metafile = true
 
 [[files]]
@@ -167,52 +162,52 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "54968e302997818e3161506db9f83add8a29b415d216985c3a3bcd301bb9b7a2"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a026bd0b14096ae3a26a324c01155bf7c496b9549ed18d69a3f671ede2e3dc55"
+hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "42272688975731772ce119e33659091edfff29244dddd147320866c0e5177ee8"
+hash = "66b982a755b4d812e9792502e96672f2ef2d8ce4ef702d2bf86cf45d99a7ece0"
 metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "a43c90eeb2b3942ff228c4c8ad0d137afb03892b7c8f37b95fdf1232cff06994"
+hash = "49e8e4a6ca064acedd121892f6b279d23e54a62d5e023183578e1e8b559f0c9b"
 metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "4b8bdf4dc91b64039b00a10f120d3cd0a32201a4d6c64348acfe90076aa9c20a"
+hash = "2176657c92ac6ec789f4f42ad6ba4480340f75f7d5b466ca531a8c3eb2d3bc52"
 metafile = true
 
 [[files]]
 file = "mods/horsebuff.pw.toml"
-hash = "998ff1a24bf6575ce321eade35fd3212fa310bc6495327cae0240a7f8a844b7e"
+hash = "c64590151ce7a968e093058924fcb60e3cbfd7aa3934e50409523e3f95375316"
 metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "5bb39494ca42f3365daaef1bec004dba55054a67ac7f83793b193fda67662160"
+hash = "40a40d03718854cc6a20c2ec65220f42edd6a787850be0161947abc87d01d036"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
+hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
 
 [[files]]
