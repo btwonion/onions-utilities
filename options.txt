@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/Faithful 64x - Beta 9.zip","file/Fast Better Grass.zip","file/Hyper_realistic_sky_[v1.7].zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","continuity:default","continuity:glass_pane_culling_fix","fabric"]
-incompatibleResourcePacks:["file/Hyper_realistic_sky_[v1.7].zip"]
+resourcePacks:["vanilla","file/Faithful 64x - Beta 9.zip","file/Hyper_realistic_sky_[v1.11].zip","file/Fast Better Grass.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","continuity:default","continuity:glass_pane_culling_fix","fabric"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -121,12 +121,12 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.cosmetica.customise:key.keyboard.right.shift
 key_key.cosmetica.snipe:key.keyboard.y
-key_key.dynamicfps.toggle_forced:key.keyboard.unknown
-key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_Open moredetails config screen:key.keyboard.u
 key_Reorder moredetails components:key.keyboard.i
 key_Toggle AutoDrop:key.keyboard.j
 key_Open GUI:key.keyboard.o
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.gamma_utils.gamma_toggle:key.keyboard.unknown
 key_key.gamma_utils.increase_gamma:key.keyboard.up
