@@ -1,13 +1,13 @@
 name = "Faithful 64x"
-filename = "Faithful 64x - Beta 9.zip"
+filename = "Faithful 64x - Beta 9.1.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/r4GILswZ/versions/YOjutORB/Faithful%2064x%20-%20Beta%209.zip"
+url = "https://cdn.modrinth.com/data/r4GILswZ/versions/kcBOm5FL/Faithful%2064x%20-%20Beta%209.1.zip"
 hash-format = "sha1"
-hash = "6dd076b2a74b7b9a0141339be48ef9c72c559516"
+hash = "f3d994b66d64eae4e91c859c32e7fbd8e0a8763b"
 
 [update]
 [update.modrinth]
 mod-id = "r4GILswZ"
-version = "YOjutORB"
+version = "kcBOm5FL"

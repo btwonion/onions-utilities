@@ -1,4 +1,4 @@
-version:3465
+version:3578
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -30,20 +30,21 @@ glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
+narratorHotkey:true
 gamma:15.0
 renderDistance:18
 simulationDistance:12
 entityDistanceScaling:5.0
 guiScale:2
 particles:0
-maxFps:180
+maxFps:260
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/Faithful 64x - Beta 9.zip","file/Hyper_realistic_sky_[v1.11].zip","file/Fast Better Grass.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","continuity:default","continuity:glass_pane_culling_fix","fabric"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","file/Faithful 64x - Beta 9.1.zip","file/Default-Dark-Mode-1.20.2-2023.9.0.zip","file/Hyper_realistic_sky_[v1.12].zip","file/Fast Better Grass.zip","continuity:default","continuity:glass_pane_culling_fix","fabric"]
+incompatibleResourcePacks:["file/Faithful 64x - Beta 9.1.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -82,7 +83,6 @@ showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
-debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
 key_key.attack:key.mouse.left
@@ -119,15 +119,18 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.cosmetica.customise:key.keyboard.right.shift
-key_key.cosmetica.snipe:key.keyboard.y
-key_Open moredetails config screen:key.keyboard.u
-key_Reorder moredetails components:key.keyboard.i
+key_key.custom_hud.enable:key.keyboard.unknown
+key_key.custom_hud.cycle_profiles:key.keyboard.unknown
+key_key.custom_hud.swap_to_profile1:key.keyboard.unknown
+key_key.custom_hud.swap_to_profile2:key.keyboard.unknown
+key_key.custom_hud.swap_to_profile3:key.keyboard.unknown
+key_key.custom_hud.show_errors:key.keyboard.unknown
 key_Toggle AutoDrop:key.keyboard.j
 key_Open GUI:key.keyboard.o
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
+key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.gamma_utils.gamma_toggle:key.keyboard.unknown
 key_key.gamma_utils.increase_gamma:key.keyboard.up
 key_key.gamma_utils.decrease_gamma:key.keyboard.down
@@ -135,16 +138,6 @@ key_key.gamma_utils.max_gamma:key.keyboard.unknown
 key_key.gamma_utils.min_gamma:key.keyboard.unknown
 key_key.gamma_utils.night_vision_toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.mousewheelie.open_config_screen:key.keyboard.unknown
-key_key.mousewheelie.sort_inventory:key.keyboard.grave.accent
-key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
-key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
-key_key.mousewheelie.pick_tool:key.keyboard.unknown
-key_key.mousewheelie.whole_stack_modifier:key.keyboard.left.shift
-key_key.mousewheelie.all_of_kind_modifier:key.keyboard.left.control
-key_key.mousewheelie.drop_modifier:key.keyboard.left.alt
-key_key.mousewheelie.deposit_modifier:key.keyboard.unknown
-key_key.mousewheelie.restock_modifier:key.keyboard.unknown
 key_Freelook:key.keyboard.v
 key_Toggle Freelook:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c

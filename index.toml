@@ -25,10 +25,6 @@ file = "config/ViaFabric/viaversion.yml"
 hash = "75d0cfd9167cbbb923d414b3bffa8e445d4929e00d15d3fc8957f9d665419beb"
 
 [[files]]
-file = "config/betterf3.json"
-hash = "1e6561b145025cfc50bf8d0550aae9e4b1f52387223b7065321db9576a00ebcc"
-
-[[files]]
 file = "config/borderlessmining.json"
 hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
 
@@ -37,12 +33,12 @@ file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
-file = "config/cosmetica/cosmetica.properties"
-hash = "bd98f3956f909059a0b6349339c7d46b4d9998310b8b34a2a775ace9f95e4e35"
+file = "config/custom-hud/config.json"
+hash = "315de713e389534aa4864b55c7cccc9315b9d58f07e7f2c11ae73208fb6a77a5"
 
 [[files]]
-file = "config/cosmetica/default-settings.properties"
-hash = "c54abb854cf0a1e18c6604ec81f525b303748c046b768365efed7f4c5385b5e2"
+file = "config/custom-hud/profile1.txt"
+hash = "37bc9a0bbd1ee6d92aece6648c2b1d54ccf33f2a2dbd098808d15584285cf2ac"
 
 [[files]]
 file = "config/customscoreboard.json"
@@ -94,11 +90,6 @@ metafile = true
 [[files]]
 file = "mods/autodrop.pw.toml"
 hash = "bbaf5e26f974ec623b57311f28a361a442e71576d39aa96c4ce97fe4da2ca5a6"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.pw.toml"
-hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
 metafile = true
 
 [[files]]
@@ -263,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "404f9eeed38db5286cdcbfb4df69359441a9021f38ef4b6ac6cb059d8d29002e"
+hash = "7a2d7a5c3867fa3bdbab265333eb42c1f5a1fd164108210ee548f7d3f8b8e96a"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"

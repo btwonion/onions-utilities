@@ -1,0 +1,12 @@
+==Section:TopLeft==
+&fFPS: {{fps >= 60, "&a", fps < 30, "&c", "&e"}}{fps}
+{{tps, "TPS: &e{tps}ms", "Ping: &e{ping}ms"}}
+&cX&aY&bZ: &c{bx} &a{by} &b{bz}
+&cX&aY&bZ &f(Chunk): &c{icx} &a{icy} &b{icz}
+&2Facing: &a{facing} &e({facing_towards_pn_sign}{facing_towards_xz})
+&2Biome: &a{biome} &7&o({dimension}) {{slime_chunk,"&bSlime Chunk"}}
+
+==Section:TopRight==
+{{item:main|item:off, "&nItems in Hands"}}
+{{item:main, "&e{item:main} {{item:main:max_dur,'(&a{item:main:dur}&e/&a{item:main:max_dur}&e) '}}&f[Main]"}}
+{{item:off, "&e{item:off} {{item:off:max_dur,'(&a{item:off:dur}&e/&a{item:off:max_dur}&e) '}}&f[Off]"}}
