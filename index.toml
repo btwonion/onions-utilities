@@ -93,6 +93,16 @@ hash = "bbaf5e26f974ec623b57311f28a361a442e71576d39aa96c4ce97fe4da2ca5a6"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "3822ac5d3cabda8f276067539162bf30718f7349c5486e9aa6255abc69a72cb8"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "3fa2c6ec333303eca27425599e8c69c5c99342b3fc369c2f2d00e1dd173c3dea"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "68a120db2b2c4db5fbfde501a6ee0504c692f3b1e777cc4dd85f1cb90c84dcd0"
 metafile = true
@@ -104,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
 metafile = true
 
 [[files]]
@@ -124,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/customhud.pw.toml"
-hash = "a285e78cd51530fa8450db55138299e73810a9aec7cbb8398df6351d05d07a05"
+hash = "64ba80f9139cb40cf7d2d380badd7dfdab58d6f3efdb0c611d3b3f88b521a6bc"
 metafile = true
 
 [[files]]
@@ -144,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d2b04b985ed22bb26338837b0547f08a41b82b23c3136f1fff9582b1748b7954"
+hash = "714158dafbd5954a8024d5b7e677fc1303d1c0bc665c7df5942d3a685904988e"
 metafile = true
 
 [[files]]
@@ -185,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b136ca50e7d8239319f528ceb521e3482f753b25d768afaf39fa6ea81e549f2e"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "a57091f8b6ecf13d9cd342afed94a7fad266f72aceafe17e6e63b4dbcbaf1934"
 metafile = true
 
 [[files]]
@@ -234,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "9c047293eee2dd76bec220d711692a6f89f1d84e3d82db3aa043be2c87375261"
+hash = "b02cdba3f43db6496b7c7a195f6bd5bfb1370e329bf2f9cdd728241be4691622"
 metafile = true
 
 [[files]]
@@ -263,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
-hash = "e5df3937860103e029cc03d3b6dde7359d7f04c6cb6b2936e37e2f085b4ab7eb"
+hash = "ecda79de458471518f37863067adf5fc7f050b06a77ea15ecf5672d216d4b281"
 metafile = true
 
 [[files]]
