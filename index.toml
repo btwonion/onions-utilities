@@ -38,7 +38,7 @@ hash = "315de713e389534aa4864b55c7cccc9315b9d58f07e7f2c11ae73208fb6a77a5"
 
 [[files]]
 file = "config/custom-hud/profile1.txt"
-hash = "37bc9a0bbd1ee6d92aece6648c2b1d54ccf33f2a2dbd098808d15584285cf2ac"
+hash = "e4ab5f8d97ad60c3d2076dcf69d4789b020188393a6a1f07f6642776fdf7a459"
 
 [[files]]
 file = "config/customscoreboard.json"
@@ -103,11 +103,6 @@ hash = "3fa2c6ec333303eca27425599e8c69c5c99342b3fc369c2f2d00e1dd173c3dea"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "68a120db2b2c4db5fbfde501a6ee0504c692f3b1e777cc4dd85f1cb90c84dcd0"
-metafile = true
-
-[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
 metafile = true
@@ -154,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "714158dafbd5954a8024d5b7e677fc1303d1c0bc665c7df5942d3a685904988e"
+hash = "0907369c09747fe4604381ce134fe19fbb6bbf1687a8294e3defdfd33c6ea46a"
 metafile = true
 
 [[files]]
@@ -169,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "49e8e4a6ca064acedd121892f6b279d23e54a62d5e023183578e1e8b559f0c9b"
+hash = "f887b988eab34f06e2c1ddc8c61e04824301262d5e366e4c6f482f673bc9b143"
 metafile = true
 
 [[files]]
@@ -249,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "b02cdba3f43db6496b7c7a195f6bd5bfb1370e329bf2f9cdd728241be4691622"
+hash = "804c8d5b2210678659163bb852a92bc3a06744a441ff4c2e2776a6809ac491ae"
 metafile = true
 
 [[files]]
@@ -288,5 +283,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "532fd07dbb0377bc681a667c776c92f8edbdf74ff6b2ba009e61564919f73d49"
+hash = "6ab5dfd44f23f4b390eb741e543fe0e8f12418713e960210bed4df84a8d7b877"
 metafile = true

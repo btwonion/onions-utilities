@@ -1,13 +1,13 @@
 name = "Hyper realistic sky"
-filename = "Hyper_realistic_sky_[v1.12].zip"
+filename = "Hyper_Realistic_Sky_[v1.13].zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PsMUgCo5/versions/3FPuTUpL/Hyper_realistic_sky_%5Bv1.12%5D.zip"
+url = "https://cdn.modrinth.com/data/PsMUgCo5/versions/ykjkxbkY/Hyper_Realistic_Sky_%5Bv1.13%5D.zip"
 hash-format = "sha1"
-hash = "3b5348358e51fbdc5743d819b1c9ab9f2266bb5e"
+hash = "67d185a72b4a06760510037c07e36ffa597091c5"
 
 [update]
 [update.modrinth]
 mod-id = "PsMUgCo5"
-version = "3FPuTUpL"
+version = "ykjkxbkY"
