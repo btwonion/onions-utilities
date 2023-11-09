@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "3fa2c6ec333303eca27425599e8c69c5c99342b3fc369c2f2d00e1dd173c3dea"
+hash = "501a3751c948dcc467d4ba221f66816809e89b3a63f0b572dab1db29adb9e696"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/customscoreboard.pw.toml"
-hash = "020a9d95210750efbbd201ac525f7bae7b291551c6f638072aa4662b6f0aa239"
+hash = "067230aa1ec17537b0bbd13be5ca835aa51a93e72f73ef064a7e8fe72ca85cb9"
 metafile = true
 
 [[files]]
@@ -149,12 +149,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0907369c09747fe4604381ce134fe19fbb6bbf1687a8294e3defdfd33c6ea46a"
+hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
+hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
 metafile = true
 
 [[files]]
@@ -213,23 +213,28 @@ hash = "d1590069cae9b65a0ac6770cc83611b52f1e0874f349b70589cdc4ba7e2ba593"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "9fabff6208086644b34566d9e8ba1ef992a581bbd9eb5067e4c057eb41129ab2"
+metafile = true
+
+[[files]]
 file = "mods/perspektive.pw.toml"
-hash = "49a1fc6dc51674b5b24487467cf4c0a5d43b91f1fd531fb743df5076b882887e"
+hash = "22fa8e89977cfb61c723d57c5157648e8b0ab482b5057733c291996da6d2d8e3"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "19a098ab3131eb6daf0033199744d33dbb31a4ce9b20b9fc6eb709ab1272aa7e"
+hash = "92fbfef541293794a06fdc71deedfb86d12fc2f3e5fc42842f94bb9f6a42e2ed"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "18c670de35ab9c0956a32387dcc23fe7b15189625a32e9b209d53b495e85c14e"
+hash = "020e9df3ea986ec5bab064a77aeec7d90ff12e0b8f54e14adbe181bb3ba0bd14"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "7e39ba5b471407bf43c212fae99856276bf4411046aa3a5df5a7d27e76c7a2b3"
+hash = "ebe386eef0fb117e3bc3252786fbca4b3f05e45eb2cc8e2f56549aad396d244f"
 metafile = true
 
 [[files]]
@@ -254,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "46d3f8c4c1bfc8f92858d7e405aed9d1a23e554a783f8977662cbeca06eda5f2"
+hash = "3fd697e0539879163b6a5649a587a4a82a2be58fb12e63128114f631a060adc8"
 metafile = true
 
 [[files]]
@@ -278,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "312a98939d9d2a64f6e5e5119cdd2de7b16088a9f98dc8c70bbc10f6077c8263"
+hash = "41a6d970868e5913a15f5304a6b99aa1783b713a755bc773e4659c955e2c87e5"
 metafile = true
 
 [[files]]
