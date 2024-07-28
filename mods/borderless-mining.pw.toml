@@ -1,13 +1,7 @@
-name = "Borderless Mining"
-filename = "borderless-mining-1.1.9+1.20.2.jar"
-side = "client"
+name = "borderless-mining"
+filename = "borderless-mining-1.1.10-dev.4c1df01+1.21.zip"
 
 [download]
-url = "https://cdn.modrinth.com/data/kYq5qkSL/versions/r2hHx4zB/borderless-mining-1.1.9%2B1.20.2.jar"
-hash-format = "sha1"
-hash = "cf26d4615041f2db6df6b6906c5475fac05030e0"
-
-[update]
-[update.modrinth]
-mod-id = "kYq5qkSL"
-version = "r2hHx4zB"
+url = "https://github.com/user-attachments/files/15944731/borderless-mining-1.1.10-dev.4c1df01%2B1.21.zip"
+hash-format = "sha256"
+hash = "aab88fce15f1b1c80f99a4323bbf4248807a61e148d0f1f519cd50e3a10a2fe7"
