@@ -13,10 +13,7 @@ Furthermore it removes fog via [No Fog](https://modrinth.com/mod/no_fog) and has
 ## Utility
 This mod uses a bunch of mods which are adding useful utilities. The most important are:
 - [Perspektive](https://modrinth.com/mod/perspektive) - adds a keybind to change perspective, without changing the player's direction
-- [SimpleAutoDrop](https://modrinth.com/mod/autodrop) - adds ability to automatically drop items, when they're moved into the inventory
 - [Chat-Heads](https://modrinth.com/mod/chat-heads) - adds player heads next to the messages in chat
-- [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie) - adds a bunch of utilites to the mouse (if you want to play on cytooxien.de disable this mod!)
-- [moredetails](https://modrinth.com/mod/moredetails) - displays useful information on your ingame hud
 
 ### Other
-If you need help with any of my mods just join my [discord server](https://nyon.dev/discord)
+If you need help with any of my mods just join my [discord server](https://nyon.dev/discord).
