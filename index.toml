@@ -25,6 +25,10 @@ file = "config/badoptimizations.txt"
 hash = "6a26c41385d6d79a0430ab91270c3e64d03576233f4a66f3b9761ffb37247fb5"
 
 [[files]]
+file = "config/chatpatches.json"
+hash = "dc4a8f68933291b3f4328910503bf1badf3b1518adb1c5b14577324a9b0195bc"
+
+[[files]]
 file = "config/customscoreboard.json"
 hash = "a78ab5865a14ebe3e0ced328c3e50c9f14390ddbb7cdb272047e04534ebc0804"
 
@@ -225,6 +229,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
+
+[[files]]
+file = "option.txt"
+hash = "2ddd831fae7c2e9ae8eb05ef5d44b7892f7b00836296ce65fbc68e7a8651b2d8"
 
 [[files]]
 file = "resourcepacks/default-dark-mode-expansion.pw.toml"
