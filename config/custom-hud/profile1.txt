@@ -1,3 +1,0 @@
-==Section:TopLeft==
-&f&lFPS: &r{{fps >= 60, "&a", fps < 30, "&c", "&e"}}{fps}
-&lTime: &r{real_time:H:m}
