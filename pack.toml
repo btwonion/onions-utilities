@@ -1,6 +1,6 @@
 name = "onions-utilities"
 author = "btwonion"
-version = "3.0.1"
+version = "3.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
