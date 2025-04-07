@@ -231,7 +231,7 @@ hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
 
 [[files]]
-file = "option.txt"
+file = "options.txt"
 hash = "2ddd831fae7c2e9ae8eb05ef5d44b7892f7b00836296ce65fbc68e7a8651b2d8"
 
 [[files]]
